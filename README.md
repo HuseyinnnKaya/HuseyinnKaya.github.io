@@ -1,1 +1,0 @@
-# HuseyinnKaya.github.io
