@@ -1,18 +1,11 @@
 title: Hüseyin Kaya
-email: huseyinkaya@example.com
-description: >-
-  Computer Engineering student. Personal website and academic projects portfolio.
-baseurl: "" # Sitenizin alt klasörü yoksa boş bırakın
-url: "https://huseyinnkaya.github.io" # Kendi GitHub Pages URL'iniz
+description: Professional English course - my presentation and about me page
 
-# Minima Teması Ayarları
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+baseurl: ""
+url: "https://huseyinnkaya.github.io"
 
-# Navigasyon Menüsü Yapılandırması
 header_pages:
-  - index.md
   - about.md
+  - cookies.md
