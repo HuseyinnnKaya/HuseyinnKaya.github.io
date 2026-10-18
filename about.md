@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: About me
+permalink: /about.html
 ---
 
-Hi, I am Hüseyin Kaya, a Computer Engineering student at Necmettin Erbakan University. 
-
-I am passionate about software development, algorithm design, and web technologies. 
-
-Welcome to my personal website where I share my projects, presentation topics, and blog posts.
+Hi, I am [your name or nickname]. I study [your department] at [your university].
+In my free time, I like [something you enjoy].
