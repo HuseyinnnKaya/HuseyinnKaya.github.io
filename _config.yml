@@ -1,17 +1,7 @@
 title: Hüseyin Kaya
 email: hberkay77@gmail.com
-description: >-
-  Personal website for BIL 333 Professional English course. 
-  Computer Engineering student at Necmettin Erbakan University.
-baseurl: ""
-url: "https://HuseyinnKaya.github.io"
-
-# Jekyll Theme Configuration (Week 3 PDF requirement)
+description: Personal website for BIL 333 Professional English course. Computer Engineering student at Necmettin Erbakan University.
 theme: minima
-
-plugins:
-  - jekyll-feed
-
 header_pages:
   - about.md
   - cookies.md
