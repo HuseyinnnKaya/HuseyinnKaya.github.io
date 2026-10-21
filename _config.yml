@@ -1,10 +1,16 @@
 title: Hüseyin Kaya
-description: Professional English course - my presentation and about me page
+email: huseyin.kaya@example.com
+description: >-
+  Personal website for BIL 333 Professional English course. 
+  Computer Engineering student at Necmettin Erbakan University.
+baseurl: ""
+url: "https://HuseyinnKaya.github.io"
 
+# Jekyll Theme Configuration (Week 3 PDF requirement)
 theme: minima
 
-baseurl: ""
-url: "https://huseyinnkaya.github.io"
+plugins:
+  - jekyll-feed
 
 header_pages:
   - about.md
